@@ -1,2 +1,2 @@
 # text-retrieval
-Nan
+Coding assignment for Text Retrieval and Search Engines class.
